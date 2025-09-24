@@ -1,2 +1,11 @@
-# dowin
-Exporters of high-quality leather jackets, pants &amp; hosiery garments from Sialkot, Pakistan. Trusted by global buyers for craftsmanship and reliability. 
+# Do Win International – Official Website
+
+Premium leather apparel, hosiery, and casual wear from Sialkot, Pakistan.  
+🌐 Live Site: https://dowin.github.io  
+📧 Contact: dowin@live.com
+
+## Products
+- **Leather Apparel** (Jackets, Pants, Gloves, Custom Outerwear)  
+- **Casual & Cotton Wear** (Hoodies, T-shirts, Sweatshirts)  
+- **Hosiery Garments** (Underwear, Tights, Leggings, Garters, and more)  
+- **Custom Manufacturing & Export Services** for global clients
